@@ -86,3 +86,10 @@ footer{
     color: #777;
     background-color: #ebebeb;
 }
+
+
+#container{
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
